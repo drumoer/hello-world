@@ -1,0 +1,13 @@
+public class listnumber {	//list Numbers from 1 to 100
+	
+	public static void main(String[] args){
+		
+		int Foo = 3;	//digit3
+		int Bar = 5;	//digit5
+		int QIx = 7; 	//digit7
+		
+		for (int i = 1; i<=100; ++i){	//count from 1 to 100
+			System.out.println(i);
+		}
+	}
+}
